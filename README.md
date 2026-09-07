@@ -17,4 +17,4 @@ Aplikasi web real-time untuk mendeteksi tanda-tanda kantuk pengguna melalui webc
 
 ## 👤 Kontributor
 
-Project individu, dikembangkan oleh **Ananda Putri Cahyani**.
+Project individu, dikembangkan oleh Ananda Putri Cahyani.
