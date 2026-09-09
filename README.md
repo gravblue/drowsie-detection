@@ -1,4 +1,4 @@
-# 😴 Drowsiness Detection & Warning System
+# Drowsiness Detection & Warning System 😴
 
 Aplikasi web real-time untuk mendeteksi tanda-tanda kantuk pengguna melalui webcam, menggunakan model CNN (transfer learning berbasis ResNet50). Sistem memantau kondisi wajah pengguna secara real-time dan memberikan alarm secara otomatis ketika kondisi mengantuk terdeteksi secara konsisten untuk membantu meningkatkan kewaspadaan pengemudi.
 
