@@ -2,8 +2,6 @@
 
 Aplikasi web real-time untuk mendeteksi tanda-tanda kantuk pengguna melalui webcam, menggunakan model CNN (transfer learning berbasis ResNet50). Sistem memantau kondisi wajah pengguna secara real-time dan memberikan alarm secara otomatis ketika kondisi mengantuk terdeteksi secara konsisten untuk membantu meningkatkan kewaspadaan pengemudi.
 
-🔗 **Link:** [drewsie.vercel.app](https://drewsie.vercel.app/)
-
 ## ✨ Fitur
 
 - Deteksi kantuk secara real-time melalui webcam
